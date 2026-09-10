@@ -15,8 +15,6 @@ os-theory-and-lab/
 ├── README.md
 ├── theory/
 │   ├── lecture-01-intro/
-│   │   ├── notes.md
-│   │   └── reference.md
 │   └── ...
 ├── labs/
 │   ├── lab-01-environment-setup/
@@ -26,10 +24,14 @@ os-theory-and-lab/
 │   │   └── README.md
 │   └── ...
 ├── assignments/
+│   └── README.md
 ├── projects/
+│   ├── README.md
 │   ├── 01-custom-shell/
 │   ├── 02-cpu-scheduler-simulator/
 │   └── 03-memory-allocator/
+├── personal-notes/
+│   └── README.md
 └── connections-to-ai-robotics/
     ├── ros2-rtos-mechanics.md
     └── data-pipeline-memory-swaps.md
