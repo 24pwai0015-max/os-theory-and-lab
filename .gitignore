@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.out
+bin/
+build/
+
+# Debug symbols & core dumps
+core
+core.*
+*.dSYM/
+vgcore.*
+
+# Editor and temporary files
+.vscode/
+*.swp
+*.swo
+*~
